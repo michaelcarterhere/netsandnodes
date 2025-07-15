@@ -3,7 +3,7 @@ type: PostLayout
 title: Why I Launched This Site⌨️
 colors: colors-a
 date: '2025-07-15'
-author: content/data/team/doris-soto.json
+author: content/data/team/michael-carter.json
 excerpt: >-
   More context that may or may not be helpful
 featuredImage:
