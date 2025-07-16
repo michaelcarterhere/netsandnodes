@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 270">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 31.11px;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #c186ff;
+      }
+    </style>
+  </defs>
+  <rect width="400" height="270"/>
+  <text class="cls-3" transform="translate(20.38 141.13)"><tspan class="cls-2" x="0" y="0">PhotoDrip</tspan><tspan class="cls-1" x="150.34" y="0"> </tspan><tspan class="cls-4" x="157.83" y="0">AI</tspan></text>
+  <text class="cls-3" transform="translate(20.25 172.87)"><tspan class="cls-2" x="0" y="0">PhotoDrip</tspan><tspan class="cls-1" x="150.34" y="0"> </tspan><tspan class="cls-4" x="157.83" y="0">AI</tspan></text>
+  <text class="cls-3" transform="translate(19.7 203.68)"><tspan class="cls-2" x="0" y="0">PhotoDrip</tspan><tspan class="cls-1" x="150.34" y="0"> </tspan><tspan class="cls-4" x="157.83" y="0">AI</tspan></text>
+  <text class="cls-3" transform="translate(19.79 234.75)"><tspan class="cls-2" x="0" y="0">PhotoDrip</tspan><tspan class="cls-1" x="150.34" y="0"> </tspan><tspan class="cls-4" x="157.83" y="0">AI</tspan></text>
+</svg>

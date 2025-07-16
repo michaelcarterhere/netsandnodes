@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hey, I'm Michael. I've worn too many hats to remember them all. Some of the recurring themes seem to be scholar, community builder, and coach. If I am not at my desk you can find me at the gym. I have a golden retriever, a Bengal, and a pet raccoon. Okay, I don't have a pet raccoon but I'm nocturnal so maybe that could be a thing some day.
 
     media:
       type: ImageBlock

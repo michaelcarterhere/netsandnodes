@@ -14,12 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, researcher, consultant and a bunch of other
-      impressive titles and buzz words.
+      I study social and digital networks.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I have built communities around the world and online. This website is a repository for some of my work.
     styles:
       self:
         height: auto
@@ -51,8 +48,8 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
+      - content/pages/projects/project-two.md
       - content/pages/projects/project-one.md
     styles:
       self:

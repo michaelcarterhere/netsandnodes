@@ -1,29 +1,27 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Publication - VR, AI, and the Training of Behavior Analysts
 colors: colors-a
-date: '2021-12-20'
-client: Awesome client
+date: '2025-06-18'
+client: Journal Publication - Behaviour Analysis in Practice
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  When Pamela Shea asked me to contribute to a paper she was working on with Erin Cote it was perfect timing.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Behaviour Analyst Paper thumbnail.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Behaviour Analyst Paper thumbnail.png
   altText: Project image
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+When Pamela Shea asked me to contribute to a paper she was working on with Erin Cote it was perfect timing. I had been giving a lot of thought at the time to the ways LLMs could enhance immersive learning technologies like VR and XR. One of the obvious use cases was simulating human interaction. A few of the early to market simulations provided me with a glimpse of what was possible. By working with Pamela and Erin I learned a lot about the role simulations played in the training of behaviour analysts and the challenges educators face in delivering them to students. This paper provides insights on those challenges and the ways computer generated simulatios can mitigate them.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+> “Computer generated simulations are not perfect but they can offer tremendous value.”
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+Check out the abstract below:
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+This rapid review explores the potential of computer-generated simulations in training future behavior analysts. While competencies in behavior analysis are critical for improving client outcomes, gaps remain in the availability and fidelity of training methods within higher education. Emerging technologies, such as artificial intelligence (AI) and virtual simulations, offer innovative solutions to address these challenges. This review synthesizes literature from 2019 to 2024, examining the role of computer-generated simulations in teaching essential skills at the undergraduate and graduate levels. The findings summarize existing research, identify key variables influencing training effectiveness, and highlight implications for future educational practices. By leveraging AI and virtual reality (VR), educators may enhance experiential learning, promote culturally responsive care, and improve skill acquisition for aspiring behavior analysts. This review provides recommendations to guide future research and the ethical integration of AI technologies in behavior analytic education.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+> Read the article here: https://link.springer.com/article/10.1007/s40617-025-01070-z
