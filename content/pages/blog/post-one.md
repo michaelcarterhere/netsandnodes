@@ -1,17 +1,17 @@
 ---
 type: PostLayout
-title: How I started a startup 🚀
+title: Severance, Foucault, and the Quiet Power of Resistance at Work
 colors: colors-a
-date: '2021-06-28'
+date: '2025-06-03'
 author: content/data/team/michael-carter.json
 excerpt: >-
-  More context that may or may not be helpful
+  “The subject is either divided inside himself or divided from others.” – Michel Foucault, The Subject and Power
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: /images/20250603 Foucault-Severance-thumb2.png
   altText: Post thumbnail image
 media:
-  url: /images/post-2.jpg
+  url: /images/20250603 FoucaultSeverance.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
@@ -89,18 +89,22 @@ bottomSections:
         textAlign: left
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Spoiler Alert: There are some acts of resistance from season one described briefly in this article.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+In Apple TV’s Severance, employees at Lumon Industries undergo a radical procedure: their consciousness is split in two. One self lives outside the office, free from the burdens of work. The other exists only inside the building, unaware of life beyond it. It’s a dystopian twist—but also an uncannily accurate dramatization of Michel Foucault’s later writings on how power operates through the production of subjects
 
-## About Coding
+Foucault is often remembered for the panopticon. Its relevance to Severance is written about in an article posted by Dr. Cécile Van de Voorde It’s a great article and I recommend reading it. I will include a link to it in the comments below. The panopticon is often explained in terms of the power relations it creates between guards and prisoners. It is a helpful concept for studying power and control in the workplace.
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+## About Foucault
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+> While often seen as a scholar focused on 'power', Foucault himself claimed he was concerned with the formation of subjects.
 
-## Productivity
+In his later work The Subject and Power Foucault argues that his work has always been about the formation of the subject, how institutions, disciplines, and practices shape individuals into something intelligible, governable, and productive. In that essay he outlines three processes: objectification through the sciences (as when psychiatry classifies people as mad or healthy), dividing practices (such as those that separate people from others or internally from themselves), and subjectification (the ways we turn ourselves into particular kinds of persons). Foucault asks in this essay if what we really need is a theory of power. He goes on to suggest that we need what he calls a new economy of power relations, one that begins not with theory, but with forms of resistance. He proposes identifying acts of resistance to make visible those techniques which act on individuals so as to make them subjects.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+## Is resistance futile?
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Severance gives us a fictional space to observe that resistance in action. Petey’s failed reintegration is not just tragic; it is a refusal of the institution’s authority to divide him. Helly’s rebellion, including her suicide attempt, is a visceral rejection of the institution’s moralizing discourse. She refuses to be optimized. Mark’s gradual awakening, both as innie and outie, hints at a more tactical resistance, he is unlearning his assigned role. The first season climax, the activation of the overtime protocol, cracks the seal that keeps work and life apart, exposing how thoroughly identity is managed and contained.
+
+This matters now more than ever. Today’s workplace doesn’t need surgical severance. With time tracking software, productivity dashboards, biometric emotion detection, and AI-generated performance scores, there are many techniques available. These tools don’t simply monitor, they divide, classify, and constitute us. They produce workplace subjects whose metrics become their identities. Severance exaggerates the logic of this system to reveal its contours. It helps us follow Foucault, to trace power not where it is declared, but where it is disrupted.
+
+#WorkplaceSurveillance #Foucault #Severance #AI #DigitalSubjectivity

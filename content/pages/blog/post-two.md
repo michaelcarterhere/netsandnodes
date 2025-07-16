@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: The Great Unbundling
+title: Are Zombies Coming for the Smart City?
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -9,16 +9,16 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
-date: '2021-11-03'
-author: content/data/team/doris-soto.json
+date: '2025-06-07'
+author: content/data/team/michael-carter.json
 excerpt: >-
-  More context that may or may not be helpful
+  What happens when IoT devices don't power off?
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image2.jpg
+  url: /images/20250607 zombies-smartcity.png
   altText: Post thumbnail image
 media:
-  url: /images/post-4.png
+  url: /images/20250607 zombies-smartcity.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
@@ -96,12 +96,22 @@ bottomSections:
         textAlign: left
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+I often picture smart cities as networks of sensors, streetlights, traffic signals, and devices all seamlessly talking to each other. But there’s one problem that hides in plain sight—power. Not processing power. Not bandwidth. Electrical power. Behind every IoT sensor quietly tracking air quality or counting cars in a smart parking lot is a basic, unsolved question: How do we keep this thing powered, continuously, without plugging it in or replacing a battery every 18 months?
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+As I reviewed a recent article in Energy & Environmental Science, it struck me just how central this question is and how often I skip past it when I talk about scaling smart city tech. The article published by Marina Freitag and several others including Francesca Brunetti and Francesca De Rossi proposes a path to autonomous power for the Internet of Things.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Power is in fact a defining feature of IoT networks. They need low, continuous power that can be a fraction of a single watt. Some devices need to stay online to transmit data 24/7. Easy enough for a lightbulb or a smart device that can be plugged into an outlet or connected by extension cord. A lot of devices are installed in hard-to-reach places (underground, behind walls, inside equipment) and so they have unwired power supplies by default. A lot of sensors and devices are also kind of permanent fixtures and so they are expected to work continuously for years without intervention.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Batteries are an obvious answer for a lot of people. They are compact and convenient. I will admit however that I struggle to replace the batteries in some of my home devices on a semi-annual basis. What does that look like at scale? Smart city scale? With thousands of devices? And, even with advancements in recycling, batteries have obvious environmental costs.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+One my earliest memories in life is the marvel of a solar powered calculator. I remember covering the solar cells and watching the calculator power off only to come back to life when I lifted my fingers off them. This actually points to one of the challenges associated with powering the Internet of Things with solar. Because again, many devices need to be placed indoors away from light, underground, or in shaded areas. Plus, you need to store energy for periods of low light… with a battery.
+
+If we want the Internet of Things to have greater autonomy, and I believe we do, we need to solve the power problem.
+
+To be honest, I really had not spent a lot of time thinking about this until I read the article from Marina and her team. It presents a novel approach that would provide autonomy of power to the Internet of Things. It’s way beyond my technical depth but what they seem to have done is produce a light-harvesting superconductor built with viologen-based polymers and added a fungal membrane that acts as an electrolyte barrier. It’s a three-terminal device combining a dye-sensitized solar cell with a compact energy storage unit. It works well under low-light conditions and shows great stability. Of course, this is a lab-scale prototype. But, it seems to show that integrated, cable-free, battery-free energy systems could play a role in the future: zombies.
+
+To follow Marina’s work on zombies and the Internet of Things check out the article she published with her team in Energy & Environmental Science (2025) here:
+
+https://pubs.rsc.org/en/content/articlelanding/2025/ee/d5ee01052g
+
+#smartcities #InternetOfThings #IoT #CleanTech #ZombieSolarCells
