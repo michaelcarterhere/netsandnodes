@@ -14,9 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I study social and digital networks.
+      My research is dedicated to connecting the dots in tech and society. I'm fascinated by the ways in which technological landscapes are shaped by economic, political, and cultural forces. In particular, I'm interested in how technology impacts communities, consumers, and citizens.
     subtitle: >-
-      I have built communities around the world and online. This website is a repository for some of my work.
+      Nets and nodes is a repository of projects and stories drawn from my experiences of our hyper-connected world.
     styles:
       self:
         height: auto

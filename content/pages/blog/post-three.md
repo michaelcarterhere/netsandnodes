@@ -1,18 +1,24 @@
 ---
 type: PostLayout
-title: Composable - the future of web
+title: Walmart, Wing, and Drone Drops
 colors: colors-b
-date: '2024-01-01'
-author: content/data/team/doris-soto.json
+date: '2025-06-12'
+author: content/data/team/michael-carter.json
 excerpt: >-
-  More context that may or may not be helpful
+  What Walmart and Wing Signal About the Future of Autonomous Delivery
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/wing-thumb.png
   altText: Post thumbnail image
+media:
+  url: /images/wing.png
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
+  type: ImageBlock
 backgroundImage:
   type: BackgroundImage
-  url: /images/gallery-2.jpg
+  url: /images/wing.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -90,38 +96,36 @@ bottomSections:
         textAlign: left
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Walmart just announced that it’s expanding its partnership with Wing Alphabet’s drone delivery company. With the promise of 30-minute deliveries, this move is being touted as a major step forward in making drone delivery a routine part of life in the U.S. According to Wing, this is the world's largest delivery drone expansion ever[1].
 
-## What is Composable Web?
+## "...this is the world's largest delivery drone expansion ever."
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Wing specializes in rapid, on-demand aerial delivery of goods. Wing has become a key partner in Walmart’s efforts to expand drone delivery services across the United States. The partnership, which began with pilot programs in Dallas-Fort Worth in 2023, has already resulted in more than 150,000 successful deliveries, with many orders fulfilled in under 19 minutes[2].
 
-### Syntax highlighter in Next.js
+In 2025, Walmart and Wing announced a major expansion, bringing drone delivery to 100 additional Walmart stores in five major U.S. cities: Atlanta, Charlotte, Houston, Orlando, and Tampa[3]. This expansion will make drone delivery available to millions of households, establishing the largest drone delivery network in the country. Wing’s drones can deliver thousands of items—including groceries, household essentials, and urgent-care products—within a six-mile radius of participating stores, typically in 30 minutes or less.
 
-```css
-.colors-a {
-  @apply bg-dark text-on-dark;
-  .sb-input,
-  .sb-select,
-  .sb-textarea {
-    @apply text-on-dark placeholder-on-dark placeholder-opacity-75;
-  }
-  .sb-header-links-primary .sb-component-link:before,
-  .sb-component-header .sb-component-social:before {
-    @apply bg-on-dark;
-  }
-  .sb-header-links-primary .sb-component-link:hover,
-  .sb-component-header .sb-component-social:hover {
-    @apply text-dark;
-  }
-  .sb-header-overlay {
-    @apply bg-dark;
-  }
-}
-```
+The service is designed for convenience, allowing customers to confirm precise delivery locations (such as your driveway) during checkout. Deliveries are made by drones that cruise at speeds up to 65 mph and lower packages gently to the ground.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+### "Deliveries are made by drones that cruise at speeds up to 65mph..."
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+If that seems a little more complicated than zipping your DJI Mavic Mini around your neighbourhood, it is. Wing operates as a licensed carrier under Federal Aviation Administration (FAA) regulations, effectively functioning as a miniature airline with all associated safety and operational requirements[4].
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+The regulatory environment is evolving. Matthias Winkenbach who directs research at the MIT Center for Transportation & Logistics was quoted in Wired Magazine as saying this presents a significant obstacle to making this a profitable business model[5]. Given the range and pace of drone adoption regulators could quite busy for the foreseeable future.
+
+Drones are a familiar foe for Homeowners Associations (HOAs) already thanks to hobbyists. Many have sought to restrict drone use within their communities citing concerns about privacy, safety, noise, and nuisance. Some HOAs have implemented outright bans, prohibiting any member, resident, guest, or invitee from operating drones in the community or entering the airspace above HOA property, with limited exceptions such as for real estate photography with prior approval and documentation.
+
+As the tech continues to improve and get adopted by different industries regulation will be one of the most important factors in the long term viability of drones.
+
+# #AutonomousSystems #SmartMobility #smartcities #drones
+
+Sources
+
+[1] Wing and Walmart announce world's largest drone delivery expansion https://wing.com/news/wing-and-walmart-announce-world-s-largest-drone-delivery-expansion-ever
+
+[2] Wing and Walmart are bringing drone delivery to 100 new stores https://www.theverge.com/news/680723/walmart-wing-drone-delivery-expand-cities-100-stores
+
+[3] Walmart and Wing expand drone delivery to five more US cities https://techcrunch.com/2025/06/05/walmart-and-wing-expand-drone-delivery-to-five-more-u-s-cities/
+
+[4] Walmart expanding drone delivery to larger US metros https://talkbusiness.net/2025/06/walmart-expanding-drone-delivery-to-larger-us-metros/
+
+[5] Walmart Goes Big With Drone Delivery Expansion https://www.wired.com/story/walmart-wing-expand-drone-delivery/

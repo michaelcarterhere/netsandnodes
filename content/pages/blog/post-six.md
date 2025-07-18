@@ -1,15 +1,18 @@
 ---
 type: PostLayout
-title: How to Structure and Organize a Next.js Project 🗂️
+title: The Future of Food Delivery
 colors: colors-a
-date: '2024-06-03'
-author: content/data/team/doris-soto.json
+date: '2025-06-13'
+author: content/data/team/michael-carter.json
 excerpt: >-
-  More context that may or may not be helpful
+  College Students Are Leading Autonomous Food Robot Adoption in Canada and the U.S.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/food-delivery.png
   altText: Post thumbnail image
+media:
+  url: /images/food-delivery.png
+  type: ImageBlock
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
@@ -83,12 +86,46 @@ bottomSections:
         textAlign: left
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+College Students Are Leading Autonomous Food Robot Adoption in Canada and the U.S.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Autonomous food delivery robots are rapidly transforming campus life across North America, with college students at the forefront—both as users and as innovators piloting these high-tech projects. From bustling U.S. universities to Canadian campuses, these initiatives are reshaping how students access meals, driving sustainability, and fostering a culture of tech-driven entrepreneurship.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+At the University of Waterloo, a team of engineering students pioneered Canada’s first all-weather autonomous pizza delivery robot through their startup, LoopX. Founded by Chao Yu, PhD, a mechatronics engineering doctoral candidate at the time, LoopX leveraged advanced chassis control, autonomous driving algorithms, and robust datasets gathered from harsh Canadian winters to create a delivery robot designed for real-world conditions. The bright red, multi-compartment vehicle was developed to transport food deliveries from local restaurants to campus locations, with customers unlocking their orders via a secure code sent to their phones. The project aimed to enhance convenience while addressing sustainability and cost-effectiveness in last-mile delivery. [1][2][3][4].
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+In the United States, autonomous food delivery robots have become a common sight on more than 50 college campuses, thanks to partnerships with companies like Starship Technologies and Kiwibot. Schools such as Cal Poly, Georgia Tech, Arizona State University, and the University of Minnesota have rolled out fleets of these robots, enabling students to order meals via apps like Grubhub and receive contactless deliveries anywhere on campus within 30 minutes. Starship’s robots, in particular, have completed millions of deliveries and are deeply integrated into campus dining programs. [5][6][7][8][9][10].
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+More recently, another start-up has emerged out of the University of Waterloo. Real Life Robotics has started a pilot project with SKIP in the City of Markham. BUBS is their 2nd generation development platform with hundreds of real-world testing hours already completed and ongoing. The technology has reached TRL-7 and is ready for commercialization. With depth cameras, LIDAR, and other sensors, BUBS has complete visibility of the environment to help navigate safely. The start-up has added autonomous robot fleet management software to their offerings giving companies the ability to have full ownership of their delivery system.
+
+Despite their success, these projects face challenges—navigating crowded sidewalks, weather conditions, and regulatory hurdles. Innovators are addressing these issues through robust safety features, remote monitoring, and close collaboration with campus authorities and city councils[7][11][4]. Sharif Virani says there is a ‘human in the loop’ supporting their delivery robots as they navigate pedestrians and other obstacles as they travel along streets and sidewalks.
+
+College campuses remain ideal testbeds: their compact layouts, predictable routes, and tech-savvy populations provide the perfect environment for refining autonomous delivery before broader urban deployment[12]. College students in Canada and the U.S. are not just early adopters—they are the drivers and architects of the autonomous food delivery revolution. Their leadership in piloting these projects is setting the stage for smarter, greener, and more convenient urban logistics—on campus and beyond[1][5][2][13][10].
+
+# #AutonomousDelivery #SmartCities #RoboticsInnovation #LastMileDelivery #FoodTech #UrbanMobility #CanadianInnovation
+
+Sources
+
+[1] LoopX AI: Canada's first autonomous, all-weather pizza delivery robot https://uwaterloo.ca/robohub/news/loopx-ai-canadas-first-autonomous-all-weather-pizza-delivery
+
+[2] Fully Autonomous Pizza Delivery From MME Doctoral Candidate https://uwaterloo.ca/mechanical-mechatronics-engineering/news/fully-autonomous-pizza-delivery-mme-doctoral-candidate
+
+[3] LoopX — Building better autonomous vehicles, one pizza at a time https://rtpark.uwaterloo.ca/news/loopx-building-better-autonomous-vehicles-one-pizza-at-a-time/
+
+[4] Autonomous Robot To Begin Delivery Service On U Of Waterloo ... https://www.design-engineering.com/autonomous-robot-to-deliver-food-on-u-of-waterloo-campus-1004039023/
+
+[5] Starship Robots Coming to Cal Poly Campus Dining https://ucm.calpoly.edu/news/starship-robots-coming-cal-poly-campus-dining
+
+[6] Universities Roll Out Food Delivery by Robot - Campus Technology https://campustechnology.com/articles/2020/09/09/universities-roll-out-food-delivery-by-robot.aspx
+
+[7] UMN testing pilot study to have robots deliver food on campus - KSTP https://kstp.com/kstp-news/top-news/umn-testing-pilot-study-to-have-robots-deliver-food-to-campus/
+
+[8] Food-delivery robots set to distribute food deliveries to Cal Poly ... https://mustangnews.net/food-delivery-robots/
+
+[9] AVs roll onto U of M campus for food delivery pilot project https://www.cts.umn.edu/news-pubs/news/2024/december/food-delivery
+
+[10] Food-delivery robots and college students: a match made in high ... https://www.foodservicedirector.com/foodservice-technology/food-delivery-robots-and-college-students-a-match-made-in-high-tech-heaven
+
+[11] Food Delivery Robots Are Running Amok On College Campuses https://www.slashgear.com/1098357/food-delivery-robots-are-running-amok-on-college-campuses/
+
+[12] [PDF] Food Delivery Robots on College Campuses https://via.library.depaul.edu/cgi/viewcontent.cgi?article=1072&context=ichrie_rr
+
+[13] National study of more than 7000 college students shows delivery ... https://www.starship.xyz/press/national-study-of-more-than-7000-college-students-shows-delivery-robots-help-students-feel-safer-skip-fewer-meals-and-improve-their-mental-health/
