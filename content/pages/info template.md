@@ -47,6 +47,56 @@ sections:
           - pr-4
         borderWidth: 1
         borderStyle: solid
+  - type: MediaGallerySection
+    colors: colors-f
+    subtitle: 'I worked with these folks:'
+    images:
+      - type: ImageBlock
+        url: /images/logo1.svg
+        altText: Logo one
+        caption: Logo one
+      - type: ImageBlock
+        url: /images/logo2.svg
+        altText: Logo two
+        caption: Logo two
+      - type: ImageBlock
+        url: /images/logo3.svg
+        altText: Logo three
+        caption: Logo three
+      - type: ImageBlock
+        url: /images/logo4.svg
+        altText: Logo four
+        caption: Logo four
+      - type: ImageBlock
+        url: /images/logo5.svg
+        altText: Logo five
+        caption: Logo five
+    spacing: 3
+    columns: 5
+    aspectRatio: auto
+    showCaption: false
+    enableHover: false
+    styles:
+      self:
+        width: wide
+        height: auto
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        textAlign: left
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        borderWidth: 1
+        borderStyle: solid
   - type: FeaturedItemsSection
     subtitle: 'You can find me here:'
     colors: colors-f
@@ -54,16 +104,40 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/in/mcarter2013/'
+            label: GitHub
+            url: 'https://github.com/'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Apple Podcast
-            url: 'https://podcasts.apple.com/us/podcast/making-the-metaverse/id1609547540'
+            label: Twitter
+            url: 'https://twitter.com/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: LinkedIn
+            url: 'https://www.linkedin.com/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: CodePen
+            url: 'https://codepen.io/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Discord
+            url: 'https://discord.com/'
         styles:
           self:
             textAlign: left
@@ -71,7 +145,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/michaelcarter.ig/'
+            url: 'https://www.instagram.com/'
         styles:
           self:
             textAlign: left
@@ -100,24 +174,24 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Interests'
+    subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'AI in Education'
+        label: 'WEB 1, 2, 3'
       - type: Label
-        label: VR/AR/XR
+        label: React
       - type: Label
-        label: Smart Cities
+        label: Microsoft Office
       - type: Label
-        label: Urban Governance
+        label: Next.js
       - type: Label
-        label: Urban Mobility
+        label: Netlify
       - type: Label
-        label: Entrepreneurship
+        label: Pancakes
       - type: Label
-        label: Innovation
+        label: C++
       - type: Label
-        label: Wellness
+        label: Swift
   - type: DividerSection
     styles:
       self:
@@ -134,7 +208,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [LinkedIn](https://www.linkedin.com/in/mcarter2013/)
+      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
@@ -154,55 +228,40 @@ sections:
         text: |-
           **Current**
 
-          * Full-Time Faculty and Program Coordinator
-          * School of Applied Science and Computing
-          * St. Lawrence College
+          * freelance @freelance.me
 
-          **2020-2022**
+          **2018-2021**
 
-          * Program Coordinator
-          * Centre for Social Impact
-          * Smith School of Business
-          * Queen's University
+          * fullstack at this startup
 
-          **2010-2020**
+          **2015**
 
-          * Academics
+          * senior front-end at this place
 
-          **2001-2010**
+          **2013**
 
-          * Volunteer Manager
-          * YMCA of Greater Toronto
+          * intern developer at a big company
+
+          **2011**
+
+          * flipping burgers
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
-          **2023-2024**
+          **2015-2018**
 
-          * Executive MBA 
+          * ba computer sciense at a semi fancy school
 
-          **2014-2021**
+          **2014**
 
-          * PhD Studies
-          * Queen's University
+          * react certificate somewhere
 
-          **2013-2014**
+          **2011**
 
-          * MA - Geography and Urban Planning
-          * University of Toronto
-
-          **2010-2013**
-
-          * Undergraduate Studies
-          * Queen's University
-
-          **2003-2008**
-
-          * Business Studies
-          * Toronto Metropolitan University
-
+          * my highschool
         styles:
           self:
             textAlign: left

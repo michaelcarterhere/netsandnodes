@@ -1,11 +1,11 @@
 ---
 type: PostLayout
-title: Habits of highly productive web developers ⌨️
+title: Drones Catching Distracted Drivers
 colors: colors-a
-date: '2024-06-10'
-author: content/data/team/doris-soto.json
+date: '2025-05-17'
+author: content/data/team/michael-carter.json
 excerpt: >-
-  More context that may or may not be helpful
+  Drone Use Spurs Debate About Privacy Violations
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
@@ -90,16 +90,10 @@ bottomSections:
         textAlign: left
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+In a pioneering move, the City of Kingston Police Force have utilized drone technology to identify and ticket drivers using handheld devices at major intersections. During a recent enforcement blitz, 20 distracted driving tickets were issued, each supported by drone-captured video evidence. One perspective to take here is that the approach enhances road safety and exemplifies the integration of advanced technology in municipal law enforcement. Despite some claims that this has never been done before, Kingston’s initiative aligns with a broader global trend: Thunder Bay, Canada: Police have tested drones to spot drivers texting or dialing on their cell phones, leading to successful enforcement actions. Poland: Law enforcement agencies have employed drones equipped with high-resolution cameras to detect and fine drivers using phones while driving. While these technologies offer promising solutions to enhance traffic safety, they also raise important discussions about privacy and surveillance. In Kingston, the Canadian Constitution Foundation has expressed concerns regarding potential violations of privacy rights under Section 8 of the Charter of Rights and Freedoms. As cities worldwide adopt smart technologies to improve public safety, it’s crucial to balance innovation with respect for individual privacy. Transparent policies and community engagement will be key in navigating these advancements responsibly.
 
-## Good habits
+# #SmartCity #PublicSafety #DroneTechnology #TrafficEnforcement #PrivacyRights #InnovationInPolicing
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+## Post Script
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
-
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+> “Privacy can be difficult to define but it's loss is easily felt.”
