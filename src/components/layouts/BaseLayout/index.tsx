@@ -2,7 +2,6 @@ import * as React from 'react';
 
 import { Annotated } from '@/components/Annotated';
 import { BackgroundImage } from '@/components/atoms';
-import Footer from '@/components/sections/Footer';
 import Header from '@/components/sections/Header';
 import { PageComponentProps } from '@/types';
 import { PageModelType } from '@/types/generated';
@@ -28,13 +27,13 @@ const BaseLayout: React.FC<BaseLayoutProps> = (props) => {
                     {props.children}
                 </main>
             </Annotated>
-            {site.footer && (
+            {/* {site.footer && (
                 <Annotated content={site}>
                     <Annotated content={site.footer}>
                         <Footer {...site.footer} />
                     </Annotated>
                 </Annotated>
-            )}
+            )} */}
         </div>
     );
 };
