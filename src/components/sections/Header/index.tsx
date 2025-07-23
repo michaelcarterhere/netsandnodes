@@ -43,6 +43,7 @@ function HeaderVariants(props) {
 
 function HeaderVariantA(props) {
     const { primaryLinks = [], socialLinks = [], ...logoProps } = props;
+    console.log("🔥 socialLinks in HeaderVariantA:", socialLinks);
     return (
         <div className="relative flex items-stretch">
             <SiteLogoLink {...logoProps} />
@@ -63,6 +64,7 @@ function HeaderVariantA(props) {
 
 function HeaderVariantB(props) {
     const { primaryLinks = [], socialLinks = [], ...logoProps } = props;
+    console.log("🔥 socialLinks in HeaderVariantA:", socialLinks);
     return (
         <div className="relative flex items-stretch">
             <SiteLogoLink {...logoProps} />
@@ -87,6 +89,7 @@ function HeaderVariantB(props) {
 
 function HeaderVariantC(props) {
     const { primaryLinks = [], socialLinks = [], ...logoProps } = props;
+    console.log("🔥 socialLinks in HeaderVariantA:", socialLinks);
     return (
         <div className="relative flex items-stretch">
             <SiteLogoLink {...logoProps} />
